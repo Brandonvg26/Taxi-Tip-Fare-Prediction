@@ -1,0 +1,35 @@
+artifact_path: file:///c:/Users/brand/portfolio/taxi/mlruns/1/models/m-36b07309a10b4b68a08c5b58d0267fff/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.1
+model_id: m-36b07309a10b4b68a08c5b58d0267fff
+model_size_bytes: 5011625
+model_uuid: m-36b07309a10b4b68a08c5b58d0267fff
+prompts: null
+run_id: a74b5a6002bf4ec8beb192a7558ef09c
+signature:
+  inputs: '[{"type": "double", "name": "pickup_hour", "required": true}, {"type":
+    "double", "name": "pickup_dow", "required": true}, {"type": "double", "name":
+    "pickup_month", "required": true}, {"type": "long", "name": "is_weekend", "required":
+    true}, {"type": "double", "name": "trip_duration_min", "required": true}, {"type":
+    "double", "name": "trip_distance", "required": true}, {"type": "double", "name":
+    "fare_per_mile", "required": true}, {"type": "double", "name": "passenger_count",
+    "required": true}, {"type": "double", "name": "ratecodeid", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-24 00:11:45.962526'

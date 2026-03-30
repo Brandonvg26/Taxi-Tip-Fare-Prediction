@@ -1,0 +1,7 @@
+artifact_location: file:///usr/local/airflow/include/mlruns/808620088835254578
+creation_time: 1774561079243
+experiment_id: '808620088835254578'
+last_update_time: 1774561079243
+lifecycle_stage: active
+name: taxi_tip_prediction_airflow
+workspace: default

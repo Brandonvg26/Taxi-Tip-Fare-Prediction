@@ -1,0 +1,14 @@
+artifact_uri: file:///usr/local/airflow/include/mlruns/808620088835254578/3cd10bbeff744fcebe2746649c928623/artifacts
+end_time: 1774561110746
+entry_point_name: ''
+experiment_id: '808620088835254578'
+lifecycle_stage: active
+run_id: 3cd10bbeff744fcebe2746649c928623
+run_name: rf_20260326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774561080437
+status: 3
+tags: []
+user_id: astro

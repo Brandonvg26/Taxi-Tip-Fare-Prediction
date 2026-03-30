@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/brand/portfolio/taxi/mlruns/346773982569160664
+creation_time: 1774309009686
+experiment_id: '346773982569160664'
+last_update_time: 1774309009686
+lifecycle_stage: active
+name: taxi_tip_prediction
+workspace: default

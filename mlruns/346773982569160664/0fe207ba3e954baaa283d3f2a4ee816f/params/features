@@ -1,0 +1,1 @@
+['pickup_hour', 'pickup_dow', 'pickup_month', 'is_weekend', 'trip_duration_min', 'trip_distance', 'fare_per_mile', 'passenger_count', 'ratecodeid']

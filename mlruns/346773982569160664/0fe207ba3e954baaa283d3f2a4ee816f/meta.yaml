@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/brand/portfolio/taxi/mlruns/346773982569160664/0fe207ba3e954baaa283d3f2a4ee816f/artifacts
+end_time: 1774309513761
+entry_point_name: ''
+experiment_id: '346773982569160664'
+lifecycle_stage: active
+run_id: 0fe207ba3e954baaa283d3f2a4ee816f
+run_name: rf_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774309010006
+status: 4
+tags: []
+user_id: brand

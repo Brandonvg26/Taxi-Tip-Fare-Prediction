@@ -1,0 +1,12 @@
+yellowtaxi_project:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: host.docker.internal
+      port: 5432
+      user: taxi
+      password: taxi
+      dbname: taxi_db
+      schema: staging
+      threads: 4

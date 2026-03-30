@@ -1,0 +1,16 @@
+creation_timestamp: 1774561109952
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1774561109952
+model_id: m-5d255a70546d4c7ab2cfdac126fae898
+name: taxi_tip_classifier
+run_id: 3cd10bbeff744fcebe2746649c928623
+run_link: null
+source: models:/m-5d255a70546d4c7ab2cfdac126fae898
+status: READY
+status_message: null
+storage_location: file:///usr/local/airflow/include/mlruns/808620088835254578/models/m-5d255a70546d4c7ab2cfdac126fae898/artifacts
+user_id: null
+version: 1
+workspace: default

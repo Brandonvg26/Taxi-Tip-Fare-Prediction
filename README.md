@@ -85,7 +85,7 @@ dbt_run → dbt_test → train_model means training never starts if dbt tests fa
 #### Prerequisites: Docker Desktop running, Python 3.11, Astro CLI installed
 
 ## 1. Clone and create virtual environment
-git clone https://github.com/<your-handle>/taxi-tip-prediction
+git clone https://github.com/Brandonvg26/Taxi-Tip-Fare-Prediction
 cd taxi-tip-prediction
 python3 -m venv .venv && source .venv/bin/activate
 
